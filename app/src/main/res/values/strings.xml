@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="search_activity_title">Search</string>
+    <string name="search_item_user">User: %s</string>
+    <string name="search_item_tags">Tags: %s</string>
+</resources>
